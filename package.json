@@ -1,0 +1,15 @@
+{
+  "name": "kamals-menyv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kamal-posts.js",
+  "dependencies": {
+    "xoauth2": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
